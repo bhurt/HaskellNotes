@@ -15,4 +15,12 @@ a new repository.  Name it.
 
 Copy and paste the git repo url (right hand side) and git clone the repo.
 
+# Initialize cabal environment
+
+    cabal sandbox init
+    cabal init
+
+Note, project web site is the github URL.
+
+Add the .cabal file, the LICENSE file, and Setup.hs to git and commit.
 
