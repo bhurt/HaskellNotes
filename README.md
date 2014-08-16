@@ -1,7 +1,9 @@
 HaskellNotes
 ============
 
-Notes on Haskell, especially on how to create a new library
+Notes on Haskell, especially on how to create a new library.  Note
+these are just my notes, based on my best understanding, and do not
+necessarily represent best practices.
 
 These are my notes on how to create a new Haskell library, using
 github and cabal.
