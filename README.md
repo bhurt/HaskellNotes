@@ -8,7 +8,10 @@ necessarily represent best practices.
 These are my notes on how to create a new Haskell library, using
 github and cabal.
 
-Github markdown help: [https://help.github.com/articles/github-flavored-markdown](https://help.github.com/articles/github-flavored-markdown)
+# Important Links
+
+* Github markdown help: [https://help.github.com/articles/github-flavored-markdown](https://help.github.com/articles/github-flavored-markdown)
+* Haddock Users Guide: [http://www.haskell.org/haddock/doc/html/](http://www.haskell.org/haddock/doc/html/)
 
 # Create A Git Repository
 
