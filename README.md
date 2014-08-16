@@ -36,4 +36,11 @@ Edit the .cabal file, add an exposed module.  Commit.
 The exposed module helps.  Note that it expects module Foo.Bar to be
 in file Foo/Bar.hs.
 
+# Use cabal repl, not ghci
+
+    cabal repl
+
+instead of:
+
+    ghci
 
