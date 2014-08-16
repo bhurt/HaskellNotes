@@ -10,6 +10,7 @@ github and cabal.
 
 # Important Links
 
+* Cabal Guide: [http://www.haskell.org/cabal/users-guide/](http://www.haskell.org/cabal/users-guide/)
 * Github markdown help: [https://help.github.com/articles/github-flavored-markdown](https://help.github.com/articles/github-flavored-markdown)
 * Haddock Users Guide: [http://www.haskell.org/haddock/doc/html/](http://www.haskell.org/haddock/doc/html/)
 
