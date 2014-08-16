@@ -29,3 +29,11 @@ Note, project web site is the github URL.
 
 Add the .cabal file, the LICENSE file, and Setup.hs to git and commit.
 
+Edit the .cabal file, add an exposed module.  Commit.
+
+# Add some source code
+
+The exposed module helps.  Note that it expects module Foo.Bar to be
+in file Foo/Bar.hs.
+
+
