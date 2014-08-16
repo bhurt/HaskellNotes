@@ -45,3 +45,10 @@ instead of:
 
     ghci
 
+# Creating documentation
+
+    cabal haddock
+
+* Cabal Guide: [http://www.haskell.org/cabal/users-guide/](http://www.haskell.org/cabal/users-guide/)
+
+
