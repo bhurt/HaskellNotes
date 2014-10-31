@@ -14,6 +14,21 @@ github and cabal.
 * Github markdown help: [https://help.github.com/articles/github-flavored-markdown](https://help.github.com/articles/github-flavored-markdown)
 * Haddock Users Guide: [http://www.haskell.org/haddock/doc/html/](http://www.haskell.org/haddock/doc/html/)
 
+# Initializing Cabal
+
+You only need to do this once per system.  All of the folowing step should
+take place in your home directory
+
+* Install a native cabal and ghc (sudo apt-get install cabal-install or similar)
+* Delete any fossil .ghc and .cabal directories in your home directory
+* cabal update
+* cabal install cabal-install
+* Add the line:
+    export PATH=~/.cabal/bin:$PAT
+to .bashrc
+
+TODO: figure out how to compile newer versions of ghc inside of cabal.
+
 # Create A Git Repository
 
 Go to github.  The +/- in the upper right hand corner lets you create
