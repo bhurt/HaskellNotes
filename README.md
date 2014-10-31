@@ -24,7 +24,7 @@ take place in your home directory
 * cabal update
 * cabal install cabal-install
 * Add the line:
-    export PATH=~/.cabal/bin:$PAT
+    export PATH=~/.cabal/bin:$PATH
 to .bashrc
 
 TODO: figure out how to compile newer versions of ghc inside of cabal.
