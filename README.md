@@ -22,7 +22,7 @@ take place in your home directory
 * Install a native cabal and ghc (sudo apt-get install cabal-install or similar)
 * Delete any fossil .ghc and .cabal directories in your home directory
 * cabal update
-* cabal install cabal-install
+* cabal install -j --enable-documentation --haddock-html --haddock-hoogle cabal-install
 * Add the line:
     export PATH=~/.cabal/bin:$PATH
 to .bashrc
